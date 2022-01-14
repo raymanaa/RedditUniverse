@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Windows vim
+*.swp
+*~
+
+# Reddit Universe
+logs/*
+music/*
+client_secrets.json
+reddit_to_youtube-oauth2.json
+Titles.txt
